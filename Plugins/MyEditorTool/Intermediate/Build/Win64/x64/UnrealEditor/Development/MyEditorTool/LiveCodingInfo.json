@@ -1,0 +1,10 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.MyEditorTool.cpp.obj": [
+			"MyEditorTool.cpp.obj",
+			"MyEditorToolCommands.cpp.obj",
+			"MyEditorToolStyle.cpp.obj"
+		]
+	}
+}

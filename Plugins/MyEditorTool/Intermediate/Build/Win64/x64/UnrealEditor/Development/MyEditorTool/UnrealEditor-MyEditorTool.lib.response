@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-MyEditorTool.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\unreal\MyPluginDemo\Intermediate\Build\Win64\x64\MyPluginDemoEditor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.InclOrderUnreal5_1.h.obj"
+"D:\unreal\MyPluginDemo\Plugins\MyEditorTool\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyEditorTool\Module.MyEditorTool.cpp.obj"
+"D:\unreal\MyPluginDemo\Plugins\MyEditorTool\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyEditorTool\Default.rc2.res"
+/OUT:"D:\unreal\MyPluginDemo\Plugins\MyEditorTool\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyEditorTool\UnrealEditor-MyEditorTool.lib"

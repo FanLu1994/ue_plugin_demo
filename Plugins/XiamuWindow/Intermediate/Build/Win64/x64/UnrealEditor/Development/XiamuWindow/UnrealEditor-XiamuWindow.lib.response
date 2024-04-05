@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-XiamuWindow.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\unreal\MyPluginDemo\Intermediate\Build\Win64\x64\MyPluginDemoEditor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.InclOrderUnreal5_1.h.obj"
+"D:\unreal\MyPluginDemo\Plugins\XiamuWindow\Intermediate\Build\Win64\x64\UnrealEditor\Development\XiamuWindow\Module.XiamuWindow.cpp.obj"
+"D:\unreal\MyPluginDemo\Plugins\XiamuWindow\Intermediate\Build\Win64\x64\UnrealEditor\Development\XiamuWindow\Default.rc2.res"
+/OUT:"D:\unreal\MyPluginDemo\Plugins\XiamuWindow\Intermediate\Build\Win64\x64\UnrealEditor\Development\XiamuWindow\UnrealEditor-XiamuWindow.lib"

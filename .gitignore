@@ -1,0 +1,30 @@
+# 排除UE5生成的Intermediate文件夹和Binaries文件夹
+Intermediate/*
+Binaries/*
+
+# 排除.DS_Store文件，这是macOS系统生成的隐藏文件
+.DS_Store
+
+# 排除Visual Studio生成的文件和目录
+.vs/*
+*.suo
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.pdb
+
+# 排除编辑器生成的日志文件
+Saved/Logs/*
+
+# 排除Visual Studio Code生成的文件和目录
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# 排除自动生成的Dune拓展插件目录
+Plugins/Dune*/Binaries/*
+Plugins/Dune*/Intermediate/*
+
+.idea/

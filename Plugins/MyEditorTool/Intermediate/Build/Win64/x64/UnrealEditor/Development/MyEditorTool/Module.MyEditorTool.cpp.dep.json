@@ -1,0 +1,37 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\unreal\\myplugindemo\\plugins\\myeditortool\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\myeditortool\\module.myeditortool.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\unreal\\myplugindemo\\intermediate\\build\\win64\\x64\\myplugindemoeditor\\development\\unrealed\\sharedpch.unrealed.shadowerrors.inclorderunreal5_1.h.pch",
+        "Includes": [
+            "d:\\unreal\\myplugindemo\\plugins\\myeditortool\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\myeditortool\\definitions.myeditortool.h",
+            "d:\\unreal\\myplugindemo\\plugins\\myeditortool\\source\\myeditortool\\private\\myeditortool.cpp",
+            "d:\\unreal\\myplugindemo\\plugins\\myeditortool\\source\\myeditortool\\public\\myeditortool.h",
+            "d:\\unreal\\myplugindemo\\plugins\\myeditortool\\source\\myeditortool\\public\\myeditortoolstyle.h",
+            "d:\\software\\ue_5.2\\engine\\source\\runtime\\slatecore\\public\\styling\\slatestyle.h",
+            "d:\\software\\ue_5.2\\engine\\source\\runtime\\slatecore\\public\\brushes\\slateborderbrush.h",
+            "d:\\software\\ue_5.2\\engine\\source\\runtime\\slatecore\\public\\brushes\\slateboxbrush.h",
+            "d:\\software\\ue_5.2\\engine\\source\\runtime\\slatecore\\public\\brushes\\slatecolorbrush.h",
+            "d:\\software\\ue_5.2\\engine\\source\\runtime\\slatecore\\public\\brushes\\slateroundedboxbrush.h",
+            "d:\\software\\ue_5.2\\engine\\source\\runtime\\slatecore\\public\\brushes\\slateimagebrush.h",
+            "d:\\unreal\\myplugindemo\\plugins\\myeditortool\\source\\myeditortool\\public\\myeditortoolcommands.h",
+            "d:\\unreal\\myplugindemo\\plugins\\myeditortool\\source\\myeditortool\\private\\myeditortoolcommands.cpp",
+            "d:\\unreal\\myplugindemo\\plugins\\myeditortool\\source\\myeditortool\\private\\myeditortoolstyle.cpp",
+            "d:\\software\\ue_5.2\\engine\\source\\runtime\\slatecore\\public\\styling\\slatestyleregistry.h",
+            "d:\\software\\ue_5.2\\engine\\source\\runtime\\engine\\public\\slate\\slategameresources.h",
+            "d:\\software\\ue_5.2\\engine\\source\\runtime\\projects\\public\\interfaces\\ipluginmanager.h",
+            "d:\\software\\ue_5.2\\engine\\source\\runtime\\projects\\public\\plugindescriptor.h",
+            "d:\\software\\ue_5.2\\engine\\source\\runtime\\projects\\public\\custombuildsteps.h",
+            "d:\\software\\ue_5.2\\engine\\source\\runtime\\json\\public\\serialization\\jsonwriter.h",
+            "d:\\software\\ue_5.2\\engine\\source\\runtime\\json\\public\\serialization\\jsontypes.h",
+            "d:\\software\\ue_5.2\\engine\\source\\runtime\\projects\\public\\localizationdescriptor.h",
+            "d:\\software\\ue_5.2\\engine\\source\\runtime\\projects\\public\\moduledescriptor.h",
+            "d:\\software\\ue_5.2\\engine\\source\\runtime\\projects\\public\\pluginreferencedescriptor.h",
+            "d:\\software\\ue_5.2\\engine\\source\\runtime\\projects\\public\\versescope.h",
+            "d:\\software\\ue_5.2\\engine\\source\\runtime\\slatecore\\public\\styling\\slatestylemacros.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

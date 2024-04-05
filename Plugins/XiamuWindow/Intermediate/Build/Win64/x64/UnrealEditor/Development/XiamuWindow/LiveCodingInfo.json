@@ -1,0 +1,10 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.XiamuWindow.cpp.obj": [
+			"XiamuWindow.cpp.obj",
+			"XiamuWindowCommands.cpp.obj",
+			"XiamuWindowStyle.cpp.obj"
+		]
+	}
+}
